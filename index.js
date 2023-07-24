@@ -1,22 +1,22 @@
 function add(a, b) {
     return a + b;
 }
-add(2, 2)
+console.log(add(2, 2))
 
 function subtract(a, b) {
     return a - b;
 }
-subtract(4, 1)
+console.log(subtract(4, 1))
 
 function multiply(a, b) {
     return a * b;
 }
-multiply(2, 2)
+console.log(multiply(2, 2))
 
 function divide(a, b) {
     return a / b;
 }
-divide(4, 2)
+console.log(divide(4, 2))
 
 function increment(n) {
     return n += 1;
